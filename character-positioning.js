@@ -1,10 +1,10 @@
-// var result = {
-//   "l": [0],
-//   "i": [1,10,],
-//   "g": [2],
-//   "h": [3,5,13,15],
-//   "t": [4,12]
-// }
+var result = {
+  "l": [0],
+  "i": [1,10,],
+  "g": [2],
+  "h": [3,5,13,15],
+  "t": [4,12]
+}
 
 function combineString(str) {
   var replaceSpace = str.replace(" ", "");
