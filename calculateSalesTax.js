@@ -34,6 +34,7 @@ var taxRates = {
   SK: 0.10
 };
 
+
 var companySalesData = [
   {
     name: "Telus",
